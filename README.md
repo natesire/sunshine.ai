@@ -1,2 +1,2 @@
 # sunshine
-C++ based Open Source Solution for Growing Free Food Trees Robotics
+C++ based Open Source Solution for Growing Free Food with Raspberry PI Robotics
